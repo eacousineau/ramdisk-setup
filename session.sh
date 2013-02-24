@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DIR=/home/eacousineau/devel/git/ramdisk-setup
-$DIR/sync.sh
+ramdisk_setup=$HOME/devel/git/ramdisk-setup
+$ramdisk_setup/sync.sh
 
 #logout sync
-trap "$DIR/sync.sh" 0
+trap "$ramdisk_setup/sync.sh" 0
