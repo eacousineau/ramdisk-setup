@@ -1,0 +1,1 @@
+none			/mnt/ramdisk	ramfs	defaults,user,size=1G,mode=0777 0 0
