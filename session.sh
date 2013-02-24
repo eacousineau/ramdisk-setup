@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR=/home/eacousineau/devel/git/ramfs-test
+DIR=/home/eacousineau/devel/git/ramdisk-setup
 $DIR/sync.sh
 
 #logout sync
